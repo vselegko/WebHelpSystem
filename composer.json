@@ -1,0 +1,23 @@
+{
+    "name": "VitalyTop/yii2-ticket",
+    "description": "A ticket system for website",
+    "keywords": ["yii"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "version": "2.0.0",
+    "homepage": "https://bitbucket.org/Ricco381/yii2-ticket/src",
+    "authors": [
+        {
+            "name": "vselegko",
+            "email": "hitropl77@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ricco\\ticket\\": ""
+        }
+    }
+}
